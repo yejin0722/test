@@ -36,15 +36,12 @@
 
 ## 📦 프로젝트 폴더 구조
 
-  knun 
+  knuh
 ┣ 📂 css  
-┣ 📂 html  
 ┣ 📂 images  
-┣ 📂 imagesSub  
-┣ 📂 include  
-┣ 📂 script  
-┗ 📂 scss  
-  index
+┣ 📂 js   
+┗ 📂 pages  
+  index.html
 
 
 ---
