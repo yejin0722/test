@@ -29,7 +29,7 @@
 
 
  ## ✨ 도메인
-👉 [롯데월드 아쿠아리움 리뉴얼 웹사이트 바로가기](https://yejin0722.github.io/aquarium/index.html)
+👉 [강원대학교 병원 리뉴얼 웹사이트 바로가기](https://yejin0722.github.io/KNUH1/)
 
 
 ---
